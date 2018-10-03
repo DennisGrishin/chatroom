@@ -11,13 +11,13 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>ClientW</string>
+   <string>Приложение Сервер</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
     <widget class="QGroupBox" name="groupBox">
      <property name="title">
-      <string>Соединение</string>
+      <string>Параметры соединения</string>
      </property>
      <layout class="QVBoxLayout" name="verticalLayout">
       <item>
